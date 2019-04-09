@@ -1,3 +1,6 @@
+.vscode
 .history
 node_modules
 tempFiles
+
+miniprogram_dist
